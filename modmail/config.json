@@ -1,0 +1,17 @@
+{
+"token": "process.env.token",
+"mainServerId": "829042531492823151",
+"inboxServerId": "829042531492823151",
+"logChannelId": "829060607944163359",
+"categoryAutomation.newThread": "830119964509339678",
+"mentionRole": "here",
+"snippetPrefix": "?",
+"snippetPrefixAnon": "?",
+
+
+"prefix": "?",
+"closeMessage": "Je ticket is gesloten, bij meer vragen kan je altijd opnieuw een DM sturen.",
+"inboxServerPermission": "manageMessages",
+"status": "DM mij voor een ticket!",
+"responseMessage":  "Bedankt voor het aanmaken van een ticket, leg al vast uit waarmee wij je kunnen helpen, dan komt het Support-Team je zo snel mogelijk helpen."
+}
